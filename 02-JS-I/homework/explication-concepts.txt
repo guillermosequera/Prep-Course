@@ -1,0 +1,29 @@
+Breve explicacion de conceptos basicos.
+
+Variables: es un espacio que apartamos en memoria para guardar diferentes tipos de datos.
+
+
+Strings: son boquees de texto entre comillas, pueden ser comillas simples o comillas dobles.
+
+
+Funciones: Es un bloque de codigo que se repetira varias veces en nuestro proyecto y se define
+           con la palabra function, seguido de el nombre con el que queramos identificar esa
+           funcion luego le siguen unos parentesis donde podremos pasar los argumentos que usara
+           adentro esa funcion y despues unas llaves donde guardaremos el codigo que ejecutrara
+           la funcion. Dentro de estas llaves escribiremos la palabra return para indicar lo que
+           queremos que la funcion retorne cuando sea invocada junto con los argumentos que le 
+           hemos asignado entre los parentesis al lado de el nombre.
+
+
+Declaraciones if: Las declaraciones tambien se conocen como condicionales ya que como la palabra lo
+                  indica, condiciona nuestro codigo para mostar una u otra cosa si cumple o no las
+                  condiciones que le indicaremos. Esto se puede hacer comenzando con la palabra clave if 
+                  seguido de unos parentesis donde guardaremos la condicion que debe cumplir el codigo
+                  despues de cerrar los parentesis abriremos unas llaves donde encerramos las indicaciones
+                  de lo que hara el codigo si cumple las condiciones especificadas dentro de los paretesis.
+                  Sino cumple nuestro codigo la condicion encerrada en el parentesis el flujo deberia
+                  continuar hasta la siguiente condicion.
+
+Valores Booleanos: Los valores booleanos nos ayudan a verificar si una condicion es verdadera o falsa
+                   o si se cumple o no. Los valores que usamos en javascript para representar esta 
+                   validacion son true o false.
