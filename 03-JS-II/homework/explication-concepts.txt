@@ -1,0 +1,16 @@
+for : es una expresion de bucle incorporada a Javascript con una sintaxis unica. Primero colocamos 
+      la palabra clave for, seguida de parentesis donde guardaremos en primera posicion la variable
+      desde donde se repetira el bucle luego separados por un ';' colocamos la expresion condicional
+      la cual siempre comenzara siendo true y se detendra cuando pase a false y separado nuevamente 
+      por un ';' en ultimo lugar dentro de nuestros parentesis indicaremos el incremento que tendra
+      nuestra variable cada vez que se cumpla el ciclo. Despues de cerrar los parentesis abriremos 
+      unas llaves  donde indicamos el codigo que debera ejecutarse cada vez que sel ciclo pase.
+
+&&, ||, ! : Los operadores logicos se utilizan para preguntar si alguna condicion es verdadera. 
+            se debe tener un valor a cada lado y cada operador cumple un efecto difente en ellas.
+            El operador && (AND) evalua ambas expresiones y devolvera verdadero si ambas expresiones
+            son true, pro lo contrario si alguna de las dos devuelve false, este operador devolvera
+            false.
+            El operador || (OR) devolvera true si una o ambas expresiones son true mientras que 
+            devolvera false solo si ambas expresiones son false.
+            El operador ! (NOT) devuelve el valor booleano opuesto a lo que sea que se le pasa.
