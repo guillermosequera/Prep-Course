@@ -1,0 +1,11 @@
+Arrays : Los arrays son colleciones de tipos de datos agrupados en una cadena con corchetes en
+         sus extremos y comas (,) para separar cada dato. Estas colecciones pueden guardar varios
+         tipos de datos como strings, numeros y booleanos. Podemos definir un array guardandolo en
+         una variable y pasandole los datos que guardara la coleccion dentro de los corchetes o 
+         podemos indicarle a a variable que queremos gaurdar un espacio en memoria para un arreglo
+         y asignamos unos corchetes vacios a la variable para luego agregar datos con los diferentes
+         metodos que tienen los array. Los metodos estan incorporados en los arrays y son varios 
+         entre ellos el .push() que nos indica que queremos agregar un nuevo dato al final de la 
+         cadena, tambien tenemos en .pop() que elimina el ultimo dato de la cadena y lo puede guardar
+         en otra variable o simplemente desecharlo y asi lo deseamos, con el metodo .length podemos 
+         consultar el tamaño de nuestro arreglo o cauntos datos esta guardando contando desde el 0. 
