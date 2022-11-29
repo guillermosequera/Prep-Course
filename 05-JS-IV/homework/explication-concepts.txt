@@ -1,0 +1,19 @@
+Objetos               : Estan encerrados entre llaves '{}', estos pueden guardar varios tipos de datos en pares de 'clave-valor', a diferencia de los arrays
+                        que estan dispuestos con un numero de indice los objetos se disponen desde una palabra 'clave' y con el signo igual '=' asignamos
+                        un 'valor' a esa palabra clave, estos valores pueden ser desde un dato numero, un string, una function o incluso un array.
+
+Propiedades           : Las propiedades son aquellas datos que guardamos dentro de un objeto o el conjunto que conocemos como 'clave-valor' que indica lo
+                        que esta guardando este objeto.
+
+Metodos               : Los metodos no son mas que la forma de llamar a una funcion dentro de un objeto, se conocen como metodos porque son igual a los 
+                        metodos pop(), length, etc. 
+
+Bucle for...in        : Son muy similares al bucle 'for' que ya conocemos incluso en su sintaxis solo que para esta ocasion dentro de los parentesis debe ir
+                        el objeto el cual iteraremos, seguido de la palabra clave 'in' acompañada de la propiedad de el objeto que queremos iterar usando solo
+                        la palabra clave que hemos escogido para dicha propiedad. 
+
+Notacion de puntos
+vs 
+Notacion de corchetes : Podemos invocar las propiedades de un objeto de dos formas diferentes pero teniendo una base en comun que es primero llamar el objeto
+                        por su nombre seguido de unos corchetes con la propiedad a la que queremos invocar 'objeto[propiedad]' y la otra forma es llamando
+                        nuevamente nuestro objeto en primera instancia seguido de un punto y la propiedad a la que queremos invocar.
