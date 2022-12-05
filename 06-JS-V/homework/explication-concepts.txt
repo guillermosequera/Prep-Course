@@ -1,0 +1,5 @@
+Prototype : Es la base de los objetos creados en nuestro codigo, podemos definir un prototipo para reutilizar metodos y propiedades que hereden todos los objetos
+            donde invoquemos sus metodos para asi mantener un codigo optimizado, facil de entender y escalar.
+
+Constructor (de clases) : Son funciones especiales como la expresion de funciones y declaracion de funciones que se pueden heredar a otras clases o constructures,
+                          mediante el metodo extends o agregandole cambios al prototype.
