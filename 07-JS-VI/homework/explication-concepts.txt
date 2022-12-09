@@ -1,0 +1,2 @@
+Funciones Callbacks : Es la capacidad de pasar una funcion como argumento a otra funcion. Esta se puede llamar varias veces y se le pueden pasar 
+                      argumentos dentro de ella misma.
